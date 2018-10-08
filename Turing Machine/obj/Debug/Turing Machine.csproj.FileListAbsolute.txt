@@ -1,0 +1,6 @@
+K:\Turing Machine\Turing Machine\obj\Debug\Turing Machine.csproj.CoreCompileInputs.cache
+K:\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe.config
+K:\Turing Machine\Turing Machine\bin\Debug\Turing Machine.exe
+K:\Turing Machine\Turing Machine\bin\Debug\Turing Machine.pdb
+K:\Turing Machine\Turing Machine\obj\Debug\Turing Machine.exe
+K:\Turing Machine\Turing Machine\obj\Debug\Turing Machine.pdb
